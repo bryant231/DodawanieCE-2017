@@ -105,6 +105,6 @@ public class Dodawanie {
              return Long.toString(value);
         }
     }
-
+//Testowy komentarz
 
 }
